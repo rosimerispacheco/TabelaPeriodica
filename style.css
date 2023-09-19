@@ -1,0 +1,84 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+section {
+  height: calc(100vh - 80px);
+}
+
+.colspan {
+  border: none;
+}
+
+.filaactinoids {
+  background-color: rgba(178, 129, 207, 0.856);
+}
+
+.filalanthanoids {
+  background-color: rgb(118, 248, 248);
+}
+
+
+
+td {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 2px;
+}
+
+.elemento {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.identificacao {
+  font-size: 12px;
+}
+
+.numatom {
+  font-size: 12px;
+}
+
+.verde {
+  background-color: rgb(129, 241, 17);
+}
+
+.laranja {
+  background-color: orange;
+}
+
+.amarelo {
+  background-color: gold;
+}
+
+.rosa {
+  background-color: coral;
+}
+
+.azulforte {
+  background-color: #4e76ca
+}
+
+.azulmedio {
+  background-color: rgb(94, 211, 247)
+}
+
+.verdemusgo {
+  background-color: rgb(133, 247, 20);
+}
+
+.azulverde {
+  background-color: darkcyan;
+}
+
+.azulcinza {
+  background-color: powderblue;
+}
